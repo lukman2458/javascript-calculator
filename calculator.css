@@ -6,7 +6,7 @@
 }
 @font-face{
     font-family: "some";
-    src: url(../../../assets/Fonts/poppins/Poppins-Medium.ttf) 
+    src: url(assets/fonts/Poppins-Medium.ttf) 
     format('truetype');
 }
 #centre_box{
