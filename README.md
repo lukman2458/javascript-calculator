@@ -1,7 +1,16 @@
-# javascript-calculator
-<p>A simple calculator done using html , css & and javascript where user can do calculations on maths</p>
-<h4>Here how it works : http://127.0.0.1:5500/mini_projects/04%20-%20html+css+js/calculator.html</h4>
+# 🧮 JavaScript Calculator
 
-<h3>Skills I learned in this mini project</h3>
-<h5>*Able to create a clean UI using css grid & other effects</h5>
-<h5>*Able to work with buttons and implement if else conditions properly using javascript</h5>
+A simple calculator built using HTML, CSS, and JavaScript that performs basic mathematical operations.
+
+## 🚀 Live Demo
+🔗 https://lukman2458.github.io/javascript-calculator/
+
+## 🛠️ Features
+- Perform basic calculations
+- Clean UI using CSS Grid
+- Interactive buttons
+
+## 📚 What I Learned
+- Creating responsive layouts using CSS Grid
+- Handling button events in JavaScript
+- Using conditional logic (if-else)
