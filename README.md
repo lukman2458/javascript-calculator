@@ -6,7 +6,7 @@ A simple calculator built using HTML, CSS, and JavaScript.
 🔗 https://lukman2458.github.io/js-calculator/
 
 ## 📸 Preview
-![Calculator Preview](Calculator.png)
+![Calculator Preview](Calculator.PNG)
 
 ## 🛠️ Features
 - Perform basic arithmetic operations
