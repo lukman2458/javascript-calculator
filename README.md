@@ -1,6 +1,6 @@
 # 🧮 JavaScript Calculator
 
-A simple calculator built using HTML, CSS, and JavaScript.
+A simple calculator built using HTML, CSS, and JavaScript to perform basic arithmetic operations
 
 ## 🚀 Live Demo
 🔗 https://lukman2458.github.io/js-calculator/
