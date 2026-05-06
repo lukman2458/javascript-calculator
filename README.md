@@ -3,7 +3,7 @@
 A simple calculator built using HTML, CSS, and JavaScript that performs basic mathematical operations.
 
 ## 🚀 Live Demo
-🔗 https://lukman2458.github.io/javascript-calculator/
+🔗[ https://lukman2458.github.io/javascript-calculator/](https://lukman2458.github.io/js-calculator/)
 
 ## 🛠️ Features
 - Perform basic calculations
