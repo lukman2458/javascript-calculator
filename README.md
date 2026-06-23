@@ -1,19 +1,19 @@
-# 🧮 JavaScript Calculator
+# JavaScript Calculator
 
 A simple calculator built using HTML, CSS, and JavaScript to perform basic arithmetic operations
 
-## 🚀 Live Demo
+## Live Demo
 🔗 https://lukman2458.github.io/js-calculator/
 
-## 📸 Preview
+## Preview
 ![Calculator Preview](Calculator.PNG)
 
-## 🛠️ Features
+## Features
 - Perform basic arithmetic operations
 - Clean UI using CSS Grid
 - Interactive buttons
 
-## 📚 What I Learned
+## What I Learned
 - Creating responsive layouts using CSS Grid
 - Handling button events in JavaScript
 - Using conditional logic (if-else)
